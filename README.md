@@ -14,7 +14,7 @@ Esta es la primera generación de la Web creada por Tim Berners-Lee, está duró
 - Utilización de palabras clave para la búsqueda de información 
 - Mayor acceso a temas de interés mediante blogs, los receptores pueden comentar y/o compartir 
 - El tema estético y de fácil interacción toma más fuerza
-- ![Web 2.0](https://www.hazhistoria.net/sites/default/files/web2_0.png)
+> ![Web 2.0](https://www.hazhistoria.net/sites/default/files/web2_0.png)
 ## Web 3.0 (2010-2016) :iphone: :computer:
 - Conexión simultánea en distintos dispositivos
 - Papel activo de los usuarios en la construcción de internet
