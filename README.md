@@ -7,7 +7,7 @@
 La World Wide Web se creó con el objetivo de poder acceder a los datos desde cualquier lugar y en cualquier momento, esta se puede definir como un sistema tecnosocial es decir que mejora la percepción humana, la verbalización, etc. y todas estas están conectadas de tal manera que se necesitan mutuamente.
 ## Web 1.0  (1989-2005) :office:
 Esta es la primera generación de la Web creada por Tim Berners-Lee, está duró de 1989 a 2005 y se definió como una red de conexiones de información, fue considerada como una web de poca lectura y poca interacción con el usuario, solo permite buscar información y leerla la relación con el usuario era muy restringida, se podía intercambiar información con otros usuarios, pero no se podía interactuar con personas ajenas a la organización.
-![Web 1.0](https://www.hazhistoria.net/sites/default/files/web1_0.png)
+- ![Web 1.0](https://www.hazhistoria.net/sites/default/files/web1_0.png)
 ## Web 2.0 (2005-2010) :mega:
 - La web 2.0 se centra en la interacción con el usuario, haciéndole de  más fácil acceso a todos, incluye las redes sociales 
 - Fácil acceso a las masas
