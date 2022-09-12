@@ -29,4 +29,4 @@ Esta es la primera generación de la Web creada por Tim Berners-Lee, está duró
 ## Web 5.0 (Creada en 2020) :shipit:
 Web 5.0 es todavía una idea clandestina en progreso y no hay una definición exacta de cómo sería. La Web 5.0 se puede considerar como web Symbionet, descentralizada, es decir, no es posible tener un servidor personal (PS) para ningún dato personal o información almacenada en la red, y las personas intentan interconectarse a través de SmartCommunicator (SC).
 ![Web 5.0](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/16263222/image/6080017e75fa706a21fd15839b5c9f6d)
-# :shipit:
+# :shipit: :shipit:
