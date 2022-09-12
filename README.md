@@ -14,7 +14,7 @@ Esta es la primera generación de la Web creada por Tim Berners-Lee, está duró
 - Utilización de palabras clave para la búsqueda de información 
 - Mayor acceso a temas de interés mediante blogs, los receptores pueden comentar y/o compartir 
 - El tema estético y de fácil interacción toma más fuerza
-![Web 2.0](https://www.hazhistoria.net/sites/default/files/web2_0.png)
+- ![Web 2.0](https://www.hazhistoria.net/sites/default/files/web2_0.png)
 ## Web 3.0 (2010-2016) :iphone: :computer:
 - Conexión simultánea en distintos dispositivos
 - Papel activo de los usuarios en la construcción de internet
@@ -26,7 +26,7 @@ Esta es la primera generación de la Web creada por Tim Berners-Lee, está duró
 - La automatización del día a día es cada vez más común 
 - las compras por internet son el común denominador en todas la empresas 
 ![Web 4.0](https://disenowebakus.net/imagenes/articulos/web-4.jpg)
-## Web 5.0 (Creada en 2020) :shipit:
-Web 5.0 es todavía una idea clandestina en progreso y no hay una definición exacta de cómo sería. La Web 5.0 se puede considerar como web Symbionet, descentralizada, es decir, no es posible tener un servidor personal (PS) para ningún dato personal o información almacenada en la red, y las personas intentan interconectarse a través de SmartCommunicator (SC).
-![Web 5.0](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/16263222/image/6080017e75fa706a21fd15839b5c9f6d)
+## Web 5.0 (Creada en 2020) :shipit: 
+Web 5.0 es todavía una idea clandestina en progreso y no hay una definición exacta de cómo sería. La Web 5.0 se puede considerar como web Symbionet, descentralizada, es decir, no es posible tener un servidor personal (PS) para ningún dato personal o información almacenada en la red, y las personas intentan interconectarse a través de SmartCommunicator (SC)
+- ![Web 5.0](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/16263222/image/6080017e75fa706a21fd15839b5c9f6d)
 # :shipit: :shipit:
